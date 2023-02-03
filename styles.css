@@ -20,25 +20,25 @@ body {
 }
 
 #container {
-    display: flex;
-    text-align: justify;
-    border: 3px solid;
+  display: flex;
+  text-align: justify;
+  border: 3px solid;
 }
 
 #container img {
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    height:auto;
-    width: 250px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height:auto;
+   width: 250px;
 }
 
 #container p {
-    margin-left: 20px;
-    margin-right: 30px;
-    margin-top: 40px;
-    margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 30px;
+  margin-top: 40px;
+  margin-bottom: 20px;
 }
 
 .rights-link {
