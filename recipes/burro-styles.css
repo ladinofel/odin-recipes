@@ -1,24 +1,24 @@
 body {
-    background-color: rgb(232, 227, 227);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 21px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-  }
+  background-color: rgb(232, 227, 227);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
 
 #container {
-    display: flex;
-    align-items: justify;
-    border: 3px solid;
+  display: flex;
+  align-items: justify;
+  border: 3px solid;
 }
 
 #container img {
-    height:450px;
-    width: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+  height:450px;
+  width: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
