@@ -33,3 +33,8 @@ body {
   border: 3px solid;
   flex-direction: column;
 }
+
+a {
+  text-decoration:underline;
+  color:black;
+}
